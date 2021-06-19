@@ -1,2 +1,3 @@
-print("1111111")
+for aaa in range(2):
+    print("222")
 input()
